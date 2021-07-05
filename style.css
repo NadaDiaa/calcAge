@@ -1,0 +1,28 @@
+.header{
+    text-align: center;
+    background-color: beige;
+    color: black;
+    padding: 1rem;
+}
+.content{
+    text-align: center;
+    padding: 5rem;
+    font-size: 3rem;
+}
+.main_address{
+    color: #b787b6;
+}
+.calculateBtn{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1rem;
+    width: 8rem;
+    height: 2rem;
+    background: #e5c6ec;
+    border: none;
+}
+.inputDate{
+    width: 17rem;
+    text-align: center;
+}
